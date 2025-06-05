@@ -14,18 +14,18 @@
             <tr>
                 <td>Masukkan Sisi</td>
                 <td>:</td>
-                <td><input type="number" name="sisi" id=""></td>
+                <td><input type="number" name="sisi" id="" required></td>
             </tr>
 
 
             <tr>
                 <td>pilih</td>
                 <td>:</td>
-                <td><input type="radio" name="pilih" value="luas">
+                <td><input type="radio" name="pilih" value="luas"  required>
                 <label for="html">Luas</label> <br>
-                <input type="radio" name="pilih" value="keliling">
+                <input type="radio" name="pilih" value="keliling"  required>
                 <label for="html">keliling</label> <br>
-                <input type="radio" name="pilih" value="semua">
+                <input type="radio" name="pilih" value="semua"  required>
                 <label for="html">semua</label> <br>
                 </td>
                 <td>

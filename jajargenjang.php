@@ -14,19 +14,19 @@
         <tr>
             <td>Alas</td>
             <td>:</td>
-            <td><input type="number" name="alas"><br></td>
+            <td><input type="number" name="alas" required><br></td>
         </tr>
 
         <tr>
             <td>Tinggi</td>
             <td>:</td>
-            <td> <input type="number" name="tinggi"><br></td>
+            <td> <input type="number" name="tinggi" required><br></td>
         </tr>
 
         <tr>
             <td>Sisi Miring</td>
             <td>:</td>
-            <td><input type="number" name="sisi miring"><br></td>
+            <td><input type="number" name="sisi miring" required><br></td>
         </tr>
 
          <tr>

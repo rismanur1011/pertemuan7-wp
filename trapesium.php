@@ -14,41 +14,41 @@
         <tr>
             <td> alas_atas</td>
             <td>:</td>
-            <td><input type="number" name="alas_atas"><br></td>
+            <td><input type="number" name="alas_atas" required><br></td>
         </tr>
 
         <tr>
             <td>alas_bawah</td>
             <td>:</td>
-            <td><input type="number" name="alas_bawah"><br></td>
+            <td><input type="number" name="alas_bawah" required><br></td>
         </tr>
 
         <tr>
             <td>tinggi</td>
             <td>:</td>
-            <td><input type="number" name="tinggi"><br></td>
+            <td><input type="number" name="tinggi" required><br></td>
         </tr>
 
         <tr>
             <td>sisi_1</td>
             <td>:</td>
-            <td><input type="number" name="sisi_1"><br></td>
+            <td><input type="number" name="sisi_1" required><br></td>
         </tr>
 
         <tr>
             <td>sisi_2 </td>
             <td>:</td>
-            <td><input type="number" name="sisi_2"><br></td>
+            <td><input type="number" name="sisi_2" required><br></td>
         </tr>
 
          <tr>
                 <td>pilih</td>
                 <td>:</td>
-                <td><input type="radio" name="pilih" value="luas">
+                <td><input type="radio" name="pilih" value="luas" required>
                 <label for="html">Luas</label> <br>
-                <input type="radio" name="pilih" value="keliling">
+                <input type="radio" name="pilih" value="keliling" required>
                 <label for="html">keliling</label> <br>
-                <input type="radio" name="pilih" value="semua">
+                <input type="radio" name="pilih" value="semua" required>
                 <label for="html">semua</label> <br>
                 </td>
                 <td>

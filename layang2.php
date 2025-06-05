@@ -14,25 +14,25 @@
             <tr>
                 <td>Diagonal 1</td>
                 <td>:</td>
-                <td> <input type="number" name="d1"><br></td>
+                <td> <input type="number" name="d1" required><br></td>
             </tr>
 
             <tr>
                 <td>Diagonal 2</td>
                 <td>:</td>
-                <td><input type="number" name="d2"><br></td>
+                <td><input type="number" name="d2" required><br></td>
             </tr>
 
             <tr>
                 <td>Sisi 1</td>
                 <td>:</td>
-                <td><input type="number" name="sisi_1"><br></td>
+                <td><input type="number" name="sisi_1" required><br></td>
             </tr>
 
             <tr>
                 <td> Sisi 2</td>
                 <td>:</td>
-                <td><input type="number" name="sisi_2"><br></td>
+                <td><input type="number" name="sisi_2" required><br></td>
             </tr>
 
              <tr>

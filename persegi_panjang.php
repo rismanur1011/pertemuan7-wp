@@ -14,23 +14,23 @@
             <tr>
                 <td>panjang</td>
                 <td>:</td>
-                <td><input type="number" name="panjang"><br></td>
+                <td><input type="number" name="panjang" required><br></td>
             </tr>
 
             <tr>
                 <td>lebar</td>
                 <td>:</td>
-                <td> <input type="number" name="lebar"><br></td>
+                <td> <input type="number" name="lebar" required><br></td>
             </tr>
 
              <tr>
                 <td>pilih</td>
                 <td>:</td>
-                <td><input type="radio" name="pilih" value="luas">
+                <td><input type="radio" name="pilih" value="luas" required>
                 <label for="html">Luas</label> <br>
-                <input type="radio" name="pilih" value="keliling">
+                <input type="radio" name="pilih" value="keliling" requied>
                 <label for="html">keliling</label> <br>
-                <input type="radio" name="pilih" value="semua">
+                <input type="radio" name="pilih" value="semua" required>
                 <label for="html">semua</label> <br>
                 </td>
                 <td>
